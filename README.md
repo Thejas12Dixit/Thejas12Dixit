@@ -2,9 +2,9 @@
 
 Robotics Simulation Engineer based in Straubing, Germany.
 
-I work on industrial robot simulation, offline programming and virtual commissioning. My background covers the full range from robot OLP and BIW simulation to Industry 4.0 integration: AAS, OPC-UA, digital twins. I did my master thesis at Volkswagen AG in Wolfsburg and have been working at Strama-MPS programming KUKA robots to BMW production standards.
+I work on industrial robot through simulation, offline and online programming and virtual commissioning. My background covers the full range from robot OLP and BIW simulation to Industry 4.0 integration: AAS, OPC-UA, digital twins. I did my master thesis at Volkswagen AG in Wolfsburg and have been working at Strama-MPS programming industrial robots to production standards.
 
-[LinkedIn](https://www.linkedin.com/in/thejas-dixit-s/) · thejasds21@gmail.com · [Resume](https://github.com/user-attachments/files/25947435/Dixit.Sathyanarayana_Resume_EN.pdf)
+[LinkedIn](https://www.linkedin.com/in/thejas-dixit-s/) · thejasds21@gmail.com 
 
 ---
 
