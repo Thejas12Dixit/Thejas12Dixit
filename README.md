@@ -40,11 +40,11 @@ I am building a portfolio of open robotics and I4.0 tools.
 
 | Project | Description | Status |
 |---|---|---|
-| 🔧 KUKA KRL Path Visualizer | Reads KRL robot programs and visualizes the 3D path with a GUI | ✅ Done |
-| 📊 Cycle Time Analyzer | Motion sequence analysis with bottleneck detection | 🔄 In progress |
-| 👁️ OpenCV Vision Pick Demo | Color detection feeding pick coordinates to a robot | 🔄 In progress |
-| 🏭 Mini Digital Twin + AAS | SimPy workstation simulation with an AAS data model | 📌 Planned |
-| 🌐 I4.0 Integrated System | ROS2 + OpenCV + RoboDK + AAS + OPC-UA capstone | 📌 Planned |
+| **KUKA KRL Path Visualizer** | Reads KRL robot programs and visualizes the 3D path with a GUI | ✅ Done |
+| **Cycle Time Analyzer** | Motion sequence analysis with bottleneck detection | 🔄 In progress |
+| **OpenCV Vision Pick Demo** | Color detection feeding pick coordinates to a robot | 🔄 In progress |
+| **Mini Digital Twin + AAS** | SimPy workstation simulation with an AAS data model | 📌 Planned |
+| **I4.0 Integrated System** | ROS2 + OpenCV + RoboDK + AAS + OPC-UA capstone | 📌 Planned |
 
 ---
 
